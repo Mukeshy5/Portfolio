@@ -1,0 +1,126 @@
+*{
+    padding: 0px;
+
+}
+.hero-section{
+    height: 600px;
+    width: 100%;
+    border: 2px solid yellow;
+    background-image: url('hero-img.jpg');
+    background-size: cover;
+    /* padding: 0%; */
+}
+.navbar{
+    /* padding: 0%; */
+    height: 75px;
+    width: 100%;
+    /* display: flex; */
+    border: 2px solid yellow;
+    /* justify-content: space-evenly; */
+    background-image: url('hero-img.jpg');
+    background-size: cover;
+    margin-bottom: 5px;
+    /* align-items: center; */
+
+}
+.nav-name{
+    /* justify-content: space-evenly; */
+    display: flex;
+    font-size: 1.3rem;
+    font-weight: 600;
+    /* text-align: center; */
+    /* align-items: center; */
+    margin-left: 200px;
+
+}
+.right{
+    color: white;
+    /* display: flex; */
+    align-items: center;
+    margin-right: 2px;
+    margin-left: 20px;
+    display: flex;
+}
+.right:hover{
+    border: 2px solid yellow;
+}
+.first{
+    color: red;
+    font-size: 1.5rem;
+    align-items: center;
+    padding: 0%;
+    /* margin-bottom: 40px; */
+    /* margin-left: 200px; */
+}
+.nav-space{
+    margin-right:20%;
+}
+.nav-space:hover{
+    border: 2px solid yellow;
+    /* display: flex; */
+    /* padding: 0%; */
+}
+
+ .content{
+    height: 100px;
+    width: 200px;
+    /* border: 2px solid yellow; */
+    margin-top: 230px;
+    margin-left: 230px;
+    /* display: flex;  */
+      
+ }
+ .hello{
+    color: white;
+    font-size: 1.7rem;
+    font-weight: 600
+ }
+ .name{
+    color: white;
+    font-size: 1.7rem;
+    font-weight: 600;
+
+ }
+ .name1{
+    color: red;
+    font-size: 2rem;
+    font-weight: 700;
+    
+ }
+ #footer{
+    height: 200px;
+    width: 100%;
+    margin-top: 5px;
+    border: 2px solid yellow;
+    display: flex;
+    justify-content: space-evenly;
+    /* background-image: url('hero-img.jpg'); */
+    /* background-size: auto; */
+    background-color: black;
+ }
+.box{
+    height: 100px;
+    width: 250px;
+    /* border: 2px solid yellow; */
+    margin-top: 40px;
+    font-size: 1rem;
+    color: white;
+    /* display: flex; */
+ }
+ .footer-bar{
+    margin-top: 3px;
+    margin-left: 25px;
+    
+    
+ }
+ .MEDIA{
+    margin-left: 0px;
+ }
+ .CONTACT{
+    margin-top: 2px;
+    
+ }
+ .SERVICES{
+    margin-top: 2px;
+    margin-left: 0px;
+ }
